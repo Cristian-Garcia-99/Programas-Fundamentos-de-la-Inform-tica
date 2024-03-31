@@ -9,5 +9,3 @@ area_placas = 0.6 * 0.6
 
 cantidad_placas = int(area_terreno / area_placas)
 print("Hay que comprar ", cantidad_placas, "placas de pasto")
-
-
